@@ -34,24 +34,17 @@
 
 这些卡片由第三方服务按 GitHub 公开数据生成，不需要手动维护：
 
-| GitHub Stats | Top Languages |
+| GitHub Stats | Repositories by Language |
 | --- | --- |
-| ![Yohoia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yohoia\&show_icons=true\&include_all_commits=true\&count_private=true\&hide_border=true\&bg_color=0D1117\&title_color=82AAFF\&text_color=C9D1D9\&icon_color=89DDFF) | ![Yohoia's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohoia\&layout=compact\&hide_border=true\&bg_color=0D1117\&title_color=82AAFF\&text_color=C9D1D9) |
+| ![Yohoia's GitHub general stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yohoia\&theme=tokyonight) | ![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yohoia\&theme=tokyonight) |
 
-| Contribution Streak | GitHub Trophies |
+| Most Commit Language | Profile Summary |
 | --- | --- |
-| ![Yohoia's GitHub contribution streak](https://streak-stats.demolab.com?user=Yohoia\&theme=tokyonight\&hide_border=true) | ![Yohoia's GitHub trophies](https://github-profile-trophy.vercel.app/?username=Yohoia\&theme=tokyonight\&no-frame=true\&no-bg=true\&column=4\&margin-w=6) |
+| ![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yohoia\&theme=tokyonight) | ![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yohoia\&theme=tokyonight) |
 
-![Yohoia's GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yohoia\&theme=react-dark\&hide_border=true\&area=true\&custom_title=Contribution%20Rhythm)
-
-<details>
-<summary><strong>📈 展开更多 GitHub 概览</strong></summary>
-
-| Profile Details | Repositories by Language | Most Commit Language | General Stats |
-| --- | --- | --- | --- |
-| ![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yohoia\&theme=tokyonight) | ![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yohoia\&theme=tokyonight) | ![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yohoia\&theme=tokyonight) | ![General stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yohoia\&theme=tokyonight) |
-
-</details>
+| Contribution Streak | Contribution Overview |
+| --- | --- |
+| ![Yohoia's GitHub contribution streak](https://streak-stats.demolab.com?user=Yohoia\&theme=tokyonight\&hide_border=true) | ![Yohoia's recent GitHub contribution chart](https://ghchart.rshah.org/82AAFF/Yohoia) |
 
 ## 🚀 精选仓库
 
