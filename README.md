@@ -7,14 +7,14 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=Yohoia\&label=Profile+views\&color=0EA5E9\&style=for-the-badge)](https://github.com/Yohoia)
 [![GitHub followers](https://img.shields.io/github/followers/Yohoia?label=Followers\&style=for-the-badge\&color=8B5CF6)](https://github.com/Yohoia?tab=followers)
-[![Public repos](https://img.shields.io/github/repos/Yohoia?label=Public+repos\&style=for-the-badge\&color=22C55E)](https://github.com/Yohoia?tab=repositories)
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYohoia\&query=%24.public_repos\&label=Public+repos\&color=22C55E\&style=for-the-badge)](https://github.com/Yohoia?tab=repositories)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Yohoia)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:imyohoia@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/imYohoia)
 [![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge\&logo=xiaohongshu\&logoColor=white)](https://xhslink.cn/o/2uKZjCQ4rPa)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge\&logo=bilibili\&logoColor=white)](https://b23.tv/cPvuHiv)
-[![QQ](https://img.shields.io/badge/QQ-1109951287-EB1923?style=for-the-badge\&logo=tencentqq\&logoColor=white)](https://wpa.qq.com/msgrd?v=3\&uin=1109951287\&site=qq\&menu=yes)
+[![QQ](https://img.shields.io/badge/QQ-1109951287-EB1923?style=for-the-badge\&logo=qq\&logoColor=white)](https://wpa.qq.com/msgrd?v=3\&uin=1109951287\&site=qq\&menu=yes)
 
 </div>
 
@@ -72,14 +72,22 @@
 
 ## 📮 联系我
 
-| 渠道 | 链接 / 说明 |
-| --- | --- |
-| 📧 Email | [imyohoia@gmail.com](mailto:imyohoia@gmail.com) · 自由职业、项目合作或产品咨询 |
-| 🐦 X | [@imYohoia](https://x.com/imYohoia) · 开发记录与碎片思考 |
-| 🔴 Xiaohongshu | [Yohoia 的小红书](https://xhslink.cn/o/2uKZjCQ4rPa) · 产品演示与创作分享 |
-| 📺 Bilibili | [Yohoia 的 Bilibili](https://b23.tv/cPvuHiv) · 视频教程、产品展示或开发分享 |
-| 💬 QQ | [1109951287](https://wpa.qq.com/msgrd?v=3\&uin=1109951287\&site=qq\&menu=yes) · 项目沟通 |
-| 🐙 GitHub | [@Yohoia](https://github.com/Yohoia) · 代码、项目与开源协作 |
+<div align="center">
+
+**最快联系我**  
+<a href="mailto:imyohoia@gmail.com"><img src="https://img.shields.io/badge/Email-imyohoia%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email：imyohoia@gmail.com"></a>
+<a href="https://wpa.qq.com/msgrd?v=3&uin=1109951287&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-1109951287-EB1923?style=for-the-badge&logo=qq&logoColor=white" alt="QQ：1109951287"></a>
+
+**内容与项目动态**  
+<a href="https://x.com/imYohoia"><img src="https://img.shields.io/badge/X-%40imYohoia-000000?style=for-the-badge&logo=x&logoColor=white" alt="X：@imYohoia"></a>
+<a href="https://xhslink.cn/o/2uKZjCQ4rPa"><img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-Yohoia-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书：Yohoia"></a>
+<a href="https://b23.tv/cPvuHiv"><img src="https://img.shields.io/badge/Bilibili-%40Yohoia-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili：@Yohoia"></a>
+<a href="https://github.com/Yohoia"><img src="https://img.shields.io/badge/GitHub-%40Yohoia-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub：@Yohoia"></a>
+
+<sub>Email / QQ 适合项目合作与沟通；X、小红书、Bilibili 和 GitHub 可以看到更多产品演示、开发记录与项目动态。</sub>
+
+</div>
+
 
 ---
 
