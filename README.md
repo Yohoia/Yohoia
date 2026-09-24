@@ -1,4 +1,4 @@
-<img src="./assets/readme/header.svg" width="100%" alt="Yohoia’s personal GitHub profile header, highlighting freelance development, AI application building, product making, dynamic stats, repositories, and social links." />
+<img src="./assets/readme/header.png" width="100%" alt="Yohoia’s personal GitHub profile header, highlighting freelance development, AI application building, product making, dynamic stats, repositories, and social links." />
 
 <div align="center">
 

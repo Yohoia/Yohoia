@@ -6,7 +6,7 @@ This repository is the special GitHub profile repository `Yohoia/Yohoia`. Its `R
 
 ```text
 README.md                            Personal profile content
-assets/readme/header.svg             Lightweight custom SVG hero
+assets/readme/header.png             Custom raster profile hero image
 .github/workflows/update-readme.yml  Recent GitHub activity workflow
 ```
 
@@ -29,5 +29,5 @@ Actions → Update GitHub activity → Run workflow
 
 - Update project descriptions in `README.md` whenever a product positioning changes.
 - Social links are listed in the first screen and the contact table.
-- The hero text can be edited directly in `assets/readme/header.svg`.
+- Replace `assets/readme/header.png` when you want to update the hero image.
 - Keep the color palette consistent with the hero when changing dynamic-card query parameters.
