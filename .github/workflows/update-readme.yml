@@ -1,6 +1,9 @@
 name: Update GitHub activity
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Every six hours, at a minute chosen to avoid the top of the hour.
     - cron: "17 */6 * * *"
