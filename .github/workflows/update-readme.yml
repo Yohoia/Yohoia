@@ -1,0 +1,28 @@
+name: Update GitHub activity
+
+on:
+  schedule:
+    # Every six hours, at a minute chosen to avoid the top of the hour.
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Refresh recent activity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Update recent GitHub activity
+        uses: jamesgeorge007/github-activity-readme@v0.5.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: ${{ github.repository_owner }}
+          COMMIT_MSG: "chore(readme): refresh GitHub activity"
+          MAX_LINES: 5
+          FILTER_EVENTS: PullRequestEvent,IssuesEvent,IssueCommentEvent,ReleaseEvent

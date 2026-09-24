@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Yohoia — Freelance and AI application developer</title>
+  <desc id="desc">A dark developer profile header with an aurora gradient, Yohoia's identity summary, and a terminal panel showing current focus and collaboration status.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B16"/>
+      <stop offset="58%" stop-color="#0A1226"/>
+      <stop offset="100%" stop-color="#120C25"/>
+    </linearGradient>
+    <radialGradient id="aurora-a" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="aurora-b" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="52%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#F472B6"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#7C93B6" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <ellipse cx="930" cy="55" rx="360" ry="210" fill="url(#aurora-a)"/>
+  <ellipse cx="255" cy="335" rx="365" ry="185" fill="url(#aurora-b)"/>
+
+  <g transform="translate(72 72)">
+    <text x="0" y="0" fill="#7DD3FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" font-weight="700" letter-spacing="4.2">PERSONAL GITHUB PROFILE</text>
+    <text x="0" y="61" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="64" font-weight="800">Yohoia</text>
+    <text x="0" y="105" fill="#C6D3E8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="24" font-weight="500">Freelance Developer · AI App Builder · Product Maker</text>
+    <text x="0" y="146" fill="#8A9BB7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19">China · AI applications · Developer tools · Automation</text>
+
+    <g transform="translate(0 182)">
+      <rect width="159" height="35" rx="17.5" fill="#0E1728" stroke="#263B58"/>
+      <circle cx="21" cy="17.5" r="5" fill="#38BDF8"/>
+      <text x="38" y="24" fill="#C6D3E8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="16">Dynamic stats</text>
+      <rect x="175" width="200" height="35" rx="17.5" fill="#0E1728" stroke="#263B58"/>
+      <circle cx="196" cy="17.5" r="5" fill="#A78BFA"/>
+      <text x="213" y="24" fill="#C6D3E8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="16">Featured repositories</text>
+      <rect x="391" width="137" height="35" rx="17.5" fill="#0E1728" stroke="#263B58"/>
+      <circle cx="412" cy="17.5" r="5" fill="#F472B6"/>
+      <text x="429" y="24" fill="#C6D3E8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="16">Social links</text>
+    </g>
+  </g>
+
+  <g transform="translate(768 60)">
+    <rect width="360" height="224" rx="24" fill="#0C1425" stroke="#28405F"/>
+    <g transform="translate(26 27)">
+      <circle cx="8" cy="8" r="6" fill="#F87171"/>
+      <circle cx="31" cy="8" r="6" fill="#FBBF24"/>
+      <circle cx="54" cy="8" r="6" fill="#34D399"/>
+    </g>
+    <g fill="#D6E2F5" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">
+      <text x="28" y="95"><tspan fill="#67E8F9">$</tspan> whoami</text>
+      <text x="52" y="124" fill="#9EADC7">freelance / AI app developer</text>
+      <text x="28" y="166"><tspan fill="#67E8F9">$</tspan> focus</text>
+      <text x="52" y="195" fill="#9EADC7">AI apps · DX · automation</text>
+    </g>
+    <text x="28" y="214" fill="#86EFAC" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="18">status: open to collaboration</text>
+  </g>
+
+  <rect x="72" y="318" width="1056" height="4" rx="2" fill="url(#accent-line)"/>
+</svg>
