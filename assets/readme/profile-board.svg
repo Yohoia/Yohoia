@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Yohoia Now Board</title>
+  <desc id="desc">A visual personal profile board showing Yohoia's identity, current projects, exploration areas, collaboration scope, and delivery loop.</desc>
+  <defs>
+    <linearGradient id="board-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080C18"/>
+      <stop offset="62%" stop-color="#0A1226"/>
+      <stop offset="100%" stop-color="#111026"/>
+    </linearGradient>
+    <radialGradient id="glow-cyan" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-purple" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="loop-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#F472B6"/>
+    </linearGradient>
+    <pattern id="fine-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#7C93B6" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="650" rx="28" fill="url(#board-bg)"/>
+  <rect width="1200" height="650" rx="28" fill="url(#fine-grid)"/>
+  <ellipse cx="1050" cy="70" rx="310" ry="190" fill="url(#glow-cyan)"/>
+  <ellipse cx="100" cy="600" rx="310" ry="175" fill="url(#glow-purple)"/>
+
+  <g transform="translate(60 52)">
+    <text x="0" y="0" fill="#7DD3FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19" font-weight="700" letter-spacing="4">NOW BOARD</text>
+    <text x="0" y="43" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="35" font-weight="800">Yohoia 的个人工作台</text>
+    <text x="0" y="76" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19">自由职业开发 · AI 应用 · 自动化交付</text>
+    <g transform="translate(875 -4)">
+      <rect width="210" height="36" rx="18" fill="#102033" stroke="#26546D"/>
+      <circle cx="21" cy="18" r="5" fill="#4ADE80"/>
+      <text x="38" y="25" fill="#C6D3E8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="17">Open to collaboration</text>
+    </g>
+  </g>
+
+  <g transform="translate(60 152)">
+    <rect width="330" height="325" rx="24" fill="#0B1324" stroke="#253A58"/>
+    <text x="30" y="44" fill="#7DD3FC" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" letter-spacing="2">WHOAMI</text>
+    <text x="30" y="92" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="28" font-weight="750">Freelance Developer</text>
+    <text x="30" y="129" fill="#C6D3E8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="24" font-weight="650">AI App Builder</text>
+    <g transform="translate(30 165)">
+      <rect width="88" height="32" rx="16" fill="#102033" stroke="#26546D"/>
+      <text x="20" y="22" fill="#BFE7F8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="16">China</text>
+      <rect x="102" width="121" height="32" rx="16" fill="#181A35" stroke="#413E77"/>
+      <text x="120" y="22" fill="#D8D4FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="16">Product Maker</text>
+    </g>
+    <g transform="translate(30 232)">
+      <rect width="8" height="66" rx="4" fill="#22D3EE"/>
+      <text x="26" y="24" fill="#D6E2F5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="20" font-weight="650">把想法做成产品</text>
+      <text x="26" y="54" fill="#8A9BB7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="18">界面清晰 · 数据可靠 · 可以迭代</text>
+    </g>
+  </g>
+
+  <g transform="translate(420 152)">
+    <rect width="390" height="325" rx="24" fill="#0B1324" stroke="#253A58"/>
+    <text x="30" y="44" fill="#A78BFA" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" letter-spacing="2">BUILDING NOW</text>
+    <g transform="translate(30 82)">
+      <circle cx="7" cy="7" r="6" fill="#38BDF8"/>
+      <text x="27" y="14" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="22" font-weight="700">DiDa-todo</text>
+      <text x="27" y="43" fill="#8A9BB7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="18">任务 · 日程 · 专注 · 成长反馈</text>
+    </g>
+    <g transform="translate(30 155)">
+      <circle cx="7" cy="7" r="6" fill="#A78BFA"/>
+      <text x="27" y="14" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="22" font-weight="700">yoho-get-design</text>
+      <text x="27" y="43" fill="#8A9BB7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="18">设计 token · 组件规则 · 证据追踪</text>
+    </g>
+    <g transform="translate(30 228)">
+      <circle cx="7" cy="7" r="6" fill="#F472B6"/>
+      <text x="27" y="14" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="22" font-weight="700">ByteSize</text>
+      <text x="27" y="43" fill="#8A9BB7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="18">全栈博客 · 内容系统 · 个人作品沉淀</text>
+    </g>
+  </g>
+
+  <g transform="translate(840 152)">
+    <rect width="300" height="325" rx="24" fill="#0B1324" stroke="#253A58"/>
+    <text x="28" y="44" fill="#F472B6" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" letter-spacing="2">EXPLORE / COLLAB</text>
+    <g fill="#C6D3E8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="20">
+      <text x="28" y="94">Agentic AI workflows</text>
+      <text x="28" y="137">Design-system analysis</text>
+      <text x="28" y="180">Automation &amp; efficiency</text>
+      <text x="28" y="223">Solo product shipping</text>
+    </g>
+    <g transform="translate(28 255)">
+      <rect width="244" height="37" rx="18.5" fill="#172032" stroke="#31425D"/>
+      <text x="20" y="25" fill="#D6E2F5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="17">Freelance · Prototype · Co-create</text>
+    </g>
+  </g>
+
+  <g transform="translate(60 513)">
+    <rect width="1080" height="78" rx="22" fill="#0B1324" stroke="#253A58"/>
+    <text x="30" y="31" fill="#7DD3FC" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" letter-spacing="2">DELIVERY LOOP</text>
+    <g transform="translate(30 47)" fill="#D6E2F5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif" font-size="19">
+      <text x="0" y="0">Clarify scenario</text>
+      <text x="182" y="0" fill="#67E8F9">→</text>
+      <text x="216" y="0">Ship MVP</text>
+      <text x="336" y="0" fill="#67E8F9">→</text>
+      <text x="370" y="0">Observe feedback</text>
+      <text x="570" y="0" fill="#67E8F9">→</text>
+      <text x="604" y="0">Refine product</text>
+      <text x="760" y="0" fill="#67E8F9">→</text>
+      <text x="794" y="0">Automate the boring parts</text>
+    </g>
+    <rect x="30" y="61" width="1020" height="3" rx="1.5" fill="url(#loop-line)" opacity="0.7"/>
+  </g>
+</svg>

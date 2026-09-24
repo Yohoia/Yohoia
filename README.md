@@ -9,26 +9,37 @@
 [![GitHub followers](https://img.shields.io/github/followers/Yohoia?label=Followers\&style=for-the-badge\&color=8B5CF6)](https://github.com/Yohoia?tab=followers)
 [![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYohoia\&query=%24.public_repos\&label=Public+repos\&color=22C55E\&style=for-the-badge)](https://github.com/Yohoia?tab=repositories)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Yohoia)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:imyohoia@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/imYohoia)
-[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge\&logo=xiaohongshu\&logoColor=white)](https://xhslink.cn/o/2uKZjCQ4rPa)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge\&logo=bilibili\&logoColor=white)](https://b23.tv/cPvuHiv)
-[![QQ](https://img.shields.io/badge/QQ-1109951287-EB1923?style=for-the-badge\&logo=qq\&logoColor=white)](https://wpa.qq.com/msgrd?v=3\&uin=1109951287\&site=qq\&menu=yes)
+**[🚀 看项目](#-精选仓库) · [📊 看 GitHub 数据](#-动态-github-数据) · [📮 联系我](#-联系我)**
 
 </div>
 
-## 🧭 个人档案
+## 🧭 个人档案 / Now Board
 
-| 主题 | 当前状态 |
-| --- | --- |
-| 🎯 定位 | 自由职业开发者 · AI 应用开发者 · Product Maker |
-| 📍 地点 | 中国 |
-| 🔭 正在做 | `DiDa-todo`：任务、日程、专注与成长反馈一体的双语工作台；`yoho-get-design`：从网站提取设计规范与组件规则的 AI 工作流 |
-| 🌱 持续探索 | Agentic AI 工作流、设计系统分析、自动化效率工具、独立产品交付 |
-| 💡 兴趣 | AI 应用、开发者体验、自由职业产品、界面与信息设计 |
-| 🤝 合作 | 自由职业开发、AI 应用原型、自动化工作流、产品共创 |
-| ⚡ 工作方式 | 先定义清晰场景，再交付可运行版本，持续用反馈和数据迭代 |
+<img src="./assets/readme/profile-board.svg" width="100%" alt="Yohoia 的 Now Board：自由职业开发者与 AI 应用开发者，位于中国；正在构建 DiDa-todo、yoho-get-design 和 ByteSize；关注 Agentic AI、设计系统分析、自动化与独立产品交付。">
+
+**一句话版本**：我在中国做自由职业开发与 AI 应用开发，喜欢把一个想法推进成界面清晰、数据可靠、可以持续迭代的产品。
+
+**当前主线**：[DiDa-todo](https://github.com/Yohoia/DiDa-todo) · [yoho-get-design](https://github.com/Yohoia/yoho-get-design) · [ByteSize / blog](https://github.com/Yohoia/blog)
+
+<details>
+<summary><strong>🧩 点开：更代码化的自我介绍</strong></summary>
+
+```ts
+export const yohoia = {
+  base: "China",
+  role: ["Freelance Developer", "AI App Developer", "Product Maker"],
+  building: [
+    { project: "DiDa-todo", focus: "任务、日程、专注与成长反馈" },
+    { project: "yoho-get-design", focus: "设计 token、组件规则与证据追踪" },
+    { project: "ByteSize", focus: "全栈博客与个人内容系统" },
+  ],
+  exploring: ["Agentic AI workflows", "Design-system analysis", "Automation"],
+  loop: ["Clarify scenario", "Ship MVP", "Observe feedback", "Refine product"],
+  openTo: ["Freelance development", "AI prototypes", "Automation workflows", "Product co-creation"],
+} as const;
+```
+
+</details>
 
 ## 📊 动态 GitHub 数据
 
