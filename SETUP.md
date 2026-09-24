@@ -7,7 +7,6 @@ This repository is the special GitHub profile repository `Yohoia/Yohoia`. Its `R
 ```text
 README.md                            Personal profile content
 assets/readme/header.svg             Lightweight custom SVG hero
-assets/readme/profile-board.svg      Visual Now Board for personal profile
 .github/workflows/update-readme.yml  Recent GitHub activity workflow
 ```
 

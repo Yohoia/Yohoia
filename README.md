@@ -13,33 +13,15 @@
 
 </div>
 
-## 🧭 个人档案 / Now Board
+## 🧭 工作方式
 
-<img src="./assets/readme/profile-board.svg" width="100%" alt="Yohoia 的 Now Board：自由职业开发者与 AI 应用开发者，位于中国；正在构建 DiDa-todo、yoho-get-design 和 ByteSize；关注 Agentic AI、设计系统分析、自动化与独立产品交付。">
+> 🧭 **场景优先**：先明确真实问题和使用者，再决定功能。
 
-**一句话版本**：我在中国做自由职业开发与 AI 应用开发，喜欢把一个想法推进成界面清晰、数据可靠、可以持续迭代的产品。
+> 🚀 **尽早可运行**：用最小可用版本验证方向，快速迭代。
 
-**当前主线**：[DiDa-todo](https://github.com/Yohoia/DiDa-todo) · [yoho-get-design](https://github.com/Yohoia/yoho-get-design) · [ByteSize / blog](https://github.com/Yohoia/blog)
+> 📊 **反馈驱动**：结合界面、数据和真实反馈修正产品。
 
-<details>
-<summary><strong>🧩 点开：更代码化的自我介绍</strong></summary>
-
-```ts
-export const yohoia = {
-  base: "China",
-  role: ["Freelance Developer", "AI App Developer", "Product Maker"],
-  building: [
-    { project: "DiDa-todo", focus: "任务、日程、专注与成长反馈" },
-    { project: "yoho-get-design", focus: "设计 token、组件规则与证据追踪" },
-    { project: "ByteSize", focus: "全栈博客与个人内容系统" },
-  ],
-  exploring: ["Agentic AI workflows", "Design-system analysis", "Automation"],
-  loop: ["Clarify scenario", "Ship MVP", "Observe feedback", "Refine product"],
-  openTo: ["Freelance development", "AI prototypes", "Automation workflows", "Product co-creation"],
-} as const;
-```
-
-</details>
+> 🤖 **自动化优先**：重复、可流程化的工作交给脚本或 AI。
 
 ## 📊 动态 GitHub 数据
 
