@@ -14,18 +14,12 @@
 </div>
 
 <div align="center">
-
-**最快联系我**  
 <a href="mailto:imyohoia@gmail.com"><img src="https://img.shields.io/badge/Email-imyohoia%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email：imyohoia@gmail.com"></a>
 <a href="https://wpa.qq.com/msgrd?v=3&uin=1109951287&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-1109951287-EB1923?style=for-the-badge&logo=qq&logoColor=white" alt="QQ：1109951287"></a>
-
-**内容与项目动态**  
 <a href="https://x.com/imYohoia"><img src="https://img.shields.io/badge/X-%40imYohoia-000000?style=for-the-badge&logo=x&logoColor=white" alt="X：@imYohoia"></a>
 <a href="https://xhslink.cn/o/2uKZjCQ4rPa"><img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-Yohoia-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书：Yohoia"></a>
 <a href="https://b23.tv/cPvuHiv"><img src="https://img.shields.io/badge/Bilibili-%40Yohoia-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili：@Yohoia"></a>
 <a href="https://github.com/Yohoia"><img src="https://img.shields.io/badge/GitHub-%40Yohoia-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub：@Yohoia"></a>
-
-<sub>Email / QQ 适合项目合作与沟通；X、小红书、Bilibili 和 GitHub 可以看到更多产品演示、开发记录与项目动态。</sub>
 
 </div>
 
@@ -80,9 +74,3 @@
 [![Update GitHub activity](https://github.com/Yohoia/Yohoia/actions/workflows/update-readme.yml/badge.svg)](https://github.com/Yohoia/Yohoia/actions/workflows/update-readme.yml)
 
 ---
-
-<div align="center">
-
-<sub>动态卡片来自 GitHub 公开数据；最近活动由 GitHub Actions 自动刷新。README 的结构与视觉仅代表 Yohoia 的个人风格，不代表任何组织。</sub>
-
-</div>
